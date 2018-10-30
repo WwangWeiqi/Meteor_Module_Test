@@ -1,2 +1,2 @@
 # Meteor_Module_Test
-This repository forsake testing moudles under Meteor-Blaze frame.
+This repository for sake of testing moudles under Meteor-Blaze frame.
